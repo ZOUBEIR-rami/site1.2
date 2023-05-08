@@ -1,0 +1,36 @@
+body{
+    background-image: url(photo-1631631480669-535cc43f2327.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.a{
+border: 2px solid black;
+margin: auto;
+background-color: aquamarine;
+height: 500px;
+width: 500px;
+margin-top: 100px;
+opacity: 0.8;
+
+}
+.z{
+    border: 1px solid black;
+    margin: auto;
+    background-color: rgb(0, 138, 92);
+    width: 400px;
+    height: 300px;
+    margin-top: 90px;
+}
+.e{
+    padding-top: 6;
+    padding-right: 60px;
+  
+    padding-left: 50px;
+}
+input:active{
+background-color: blueviolet;
+
+}
+input{
+    margin-top: 6px;
+}

@@ -1,0 +1,38 @@
+body{
+    background-image: url(istock-1147195672-11.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.a{
+   border: 2px solid black;
+   margin:auto;
+   display: flex;
+   justify-content: space-between;
+   box-shadow: 5px 10px red;
+ 
+
+ 
+}
+.z{
+  
+    padding-top: 10px;
+}
+.e{
+
+    padding-left: 30px;
+    color: azure;
+}
+.d{
+    
+ padding-left: 30px;
+padding-top: 40px;
+ 
+ color: rgb(255, 255, 255);
+
+}
+p{
+    color: rgb(255, 255, 255);
+}
+a{
+    color: aqua;
+}
